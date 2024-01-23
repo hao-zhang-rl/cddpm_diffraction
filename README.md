@@ -2,7 +2,7 @@ This project is an example for the c-DDPM used to seprate seismic diffractions. 
 
 #Usage
 
-Before starting the test, you must download the trained model from https://drive.google.com/drive/folders/1oPU5NUKFuZZUfYN5e--0Iz1HI_AnGCXD?usp=drive_link and place the directory "dataset2_consine" under the  directory: ./experiments/
+Before starting the test, you must download the trained model from https://drive.google.com/drive/folders/1eMllr4w1s95nhG-p7HAjq7L7x2uS7w0a?usp=drive_link and place the directory "dataset2_consine" under the  directory: ./experiments/
 
 Then, start the diffraction separation by runing 
 <pre><code>$mpip install -r requirements.txt</code></pre>
